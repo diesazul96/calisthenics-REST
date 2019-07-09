@@ -1,0 +1,4 @@
+rootProject.name = 'calisthenicservices-final-project'
+
+include 'users-rest-service'
+include 'routines-rest-service'
